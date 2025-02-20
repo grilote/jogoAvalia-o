@@ -8,6 +8,6 @@
 
 <div align ="center">
 
-  ![]([https://github.com/grilote/jogoAvalia-o/blob/main/img/qrcode_jogo.png?raw=true](https://github.com/grilote/jogoAvalia-o/blob/main/img/QRCODE-AVALIA-O.png?raw=true])
+  ![](https://github.com/grilote/jogoAvalia-o/blob/main/img/qrcode_jogo.png?raw=true](https://github.com/grilote/jogoAvalia-o/blob/main/img/QRCODE-AVALIA-O.png?raw=true)
   
 </div>
